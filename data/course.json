@@ -1,0 +1,32 @@
+{
+  "term": "Spring",
+  "year": "2030",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "new-site-1"
+  },
+  "course_image": {
+    "content": "",
+    "website": "new-site-1"
+  },
+  "course_title": "sdfsdf",
+  "hide_download": false,
+  "course_description": "sdffsd",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "new-site-1"
+  },
+  "learning_resource_types": [],
+  "site_uid": "6579c860-3e1b-4642-8277-e315374da49b",
+  "site_short_id": "new-site-1"
+}
